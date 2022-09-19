@@ -98,7 +98,7 @@ Press F1 or CTRL+Shift+P to open VS Code Command Palette.
 
 ## Authors
 
-- **Eray Sönmez** - _Lead Developer_ - [Zeitner GmbH](https://www.zeitnergmbh.de)
+- **Eray Sönmez**
 
 Written in TypeScript with love. This extension is a product of Zeitner GmbH.
 
